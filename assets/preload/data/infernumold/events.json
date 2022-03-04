@@ -1,0 +1,104 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "alleybalistic",
+		"player1": "bfCorrupt",
+		"player2": "whittyCrazyCorruptold",
+		"player3": null,
+		"events": [
+			[
+				167714.285714285,
+				[
+					[
+						"Image Appearance",
+						"4k",
+						"2"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				167785.714285714,
+				[
+					[
+						"healthlmao",
+						"1.7",
+						""
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				167857.142857143,
+				[
+					[
+						"Change Character",
+						"dad",
+						"WhittyCrazyCorrupt2old"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfCorrupt2"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				304642.857142856,
+				[
+					[
+						"Image Appearance",
+						"4k",
+						"2"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				304714.285714285,
+				[
+					[
+						"Change Character",
+						"dad",
+						"WhittyCrazyCorrupt3old"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfCorrupt"
+					],
+					[
+						"Image Appearance",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 210,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Infernumold"
+	}
+}

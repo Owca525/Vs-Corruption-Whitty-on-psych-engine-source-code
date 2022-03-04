@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "whitty3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THAT'S IT.. I'VE HAD ENOUGH!."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whitty3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I CAN'T TAKE IT ANYMORE!."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whitty3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'VE BEEN DOOMED IN A WORLD THAT IS GETTING CORRUPT AND I CAN'T DO ANYTHING TO STOP IT!."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whitty3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU'VE RUINED EVERYTHING!."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whitty3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'M GOING TO SEND YOU STRAIGHT TO HELL YOU BASTARD!."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfc",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}

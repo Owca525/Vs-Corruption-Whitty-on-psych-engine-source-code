@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "whitty2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just leave me be."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whitty2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've lost everythink cause of this\\ndamned corruption.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfc",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whitty2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But.. I won't give in. Not yet. I'll\\nstop you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whitty2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Somehow..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfc",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}

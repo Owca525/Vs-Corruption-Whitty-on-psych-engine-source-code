@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.50000000000002,
+		"stage": "alleybalistic",
+		"player1": "bfCorrupt2",
+		"player2": "whittyCrazyCorrupt3",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Screen Shake",
+						"99999999, 0.008",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.20",
+						""
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 210,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Vexation"
+	}
+}

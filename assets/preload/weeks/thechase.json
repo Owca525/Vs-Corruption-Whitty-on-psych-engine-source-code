@@ -1,0 +1,49 @@
+{
+	"storyName": "the chase",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "nic",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"deprave",
+			"whitty",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"PRessure",
+			"whitty2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"infernum",
+			"whitty3",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "the chase"
+}

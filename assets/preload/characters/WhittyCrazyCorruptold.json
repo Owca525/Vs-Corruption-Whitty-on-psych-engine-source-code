@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				170,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Whitty Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				140,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Whitty Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				94,
+				144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Whitty Sing Note UP"
+		},
+		{
+			"offsets": [
+				78,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Whitty idle dance"
+		},
+		{
+			"offsets": [
+				180,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "whitty sing note right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WhittyCrazyCorruptold",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "whitty3old",
+	"flip_x": false,
+	"healthbar_colors": [
+		187,
+		6,
+		80
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

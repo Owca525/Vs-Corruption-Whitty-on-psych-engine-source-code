@@ -1,0 +1,94 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "alleybalistic",
+		"player1": "bfCorrupt",
+		"player2": "WhittyCrazyCorrupt",
+		"player3": null,
+		"events": [
+			[
+				167928.571428571,
+				[
+					[
+						"Image Appearance",
+						"4k",
+						"1"
+					],
+					[
+						"healthlmao",
+						"1.8",
+						""
+					],
+					[
+						"Change Character",
+						"",
+						""
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"WhittyCrazyCorrupt2"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfCorrupt2"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				305142.857142856,
+				[
+					[
+						"Image Appearance",
+						"4k",
+						"1"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				305214.285714285,
+				[
+					[
+						"Change Character",
+						"dad",
+						"WhittyCrazyCorrupt3"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfCorrupt"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 210,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Infernum"
+	}
+}

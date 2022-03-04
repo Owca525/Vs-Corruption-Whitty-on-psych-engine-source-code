@@ -1,0 +1,49 @@
+{
+	"storyName": "old",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "nic",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "the chase",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"depraveold",
+			"whittyold",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"PRessureold",
+			"whitty2old",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"infernumold",
+			"whitty3old",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "old"
+}
